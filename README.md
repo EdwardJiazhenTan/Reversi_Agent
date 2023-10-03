@@ -1,2 +1,2 @@
-# Discord_dummy_bot
-a not so smart ai image and chat bot
+#Reversi Ai agent 
+minimax algorithm with a-b pruning
